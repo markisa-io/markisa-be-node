@@ -1,0 +1,28 @@
+const desireRole = [
+    'Android',
+    'Application Architect',
+    'Automation Tester',
+    'BI Developer', 'Business Analyst', 'Business Systems',
+    'C#', 'C/C++', 'Clojure', 'Cloud Architect',
+    'Dart', 'Data Analyst', 'Data Architect', 'Data Engineer', 'Data Manager', 'Data Scientist', 'Database Administrator',
+    'Delivery Manager', 'Desktop Support', 'DevOps', 'DevOps Manager', 'DevSecOps',
+    'Enterprise Architect', 'Engineering Management', 'Elixir', 'Erlang',
+    'Fullstack C#', 'Fullstack C/C++', 'Fullstack Clojure', 'Fullstack Dart', 'Fullstack Elixir', 'Fullstack Erlang', 'Fullstack Go', 'Fullstack Groovy', 'Fullstack Haskell', 'Fullstack Java', 'Fullstack Kotlin', 'Fullstack Node.js',
+    'Fullstack PHP', 'Fullstack Python', 'Fullstack Ruby', 'Fullstack Rush', ' Fullstack Scala', 'Fullstack Visual Basic',
+    'Go', 'Groovy',
+    'Haskell', 'HTML/CSS',
+    'Infrastructure Architech', 'IOs',
+    'Java', 'JavaScript', 'Kotlin', 'Lisp',
+    'Manual Tester', 'Matlab', 'Microsoft Dynamic', 'Mobile Hybrid',
+    'Network', 'Network Administrator', 'NOC', 'NodeJs',
+    'PHP', 'Product Manager', 'Project Manager', 'Python',
+    'QA', 'QA Manager', 'Quantitative Developer',
+    'React Native', 'Ruby', 'Rush',
+    'Salesforce Developer', 'SAP Consultan', 'Scala', 'Security Architech', 'Solution Architech', 'software developer in test', 'Sys Admin',
+    'Test Architech',
+    'UI Designer', 'UX Designer', 'UX Researcher',
+    'Visual Basic',
+    'Windows Mobile',
+]
+
+export default desireRole;
